@@ -1,11 +1,22 @@
 {
   "name": "@morteza-jamali/lineicons",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Handcrafted Line Icons for Modern User Interfaces of Web, Android, iOS, and Desktop App Projects. A Complete Yet Most Simplified Icon Pack Available on The Web!",
-  "keywords": ["LineIcons" , "Free icons" , "icons" , "Icon pack" , "Outline icons"],
-  "author": {
-    "name": "LineIcons Team" ,
-    "url": "https://lineicons.com/"
+  "keywords": [
+    "LineIcons",
+    "Free icons",
+    "icons",
+    "Icon pack",
+    "Outline icons"
+  ],
+  "author": "LineIcons Team (https://lineicons.com/)",
+  "license": "SEE LICENSE IN <license.txt>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/morteza-jamali/LineIcons.git"
   },
-  "license": "SEE LICENSE IN <license.txt>"
+  "bugs": {
+    "url": "https://github.com/morteza-jamali/LineIcons/issues"
+  },
+  "homepage": "https://github.com/morteza-jamali/LineIcons#readme"
 }
